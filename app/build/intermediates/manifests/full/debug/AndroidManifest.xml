@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.snijsure.rssreader"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.snijsure.rssreader.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="com.snijsure.rssreader.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.snijsure.rssreader.AddNewSiteActivity" />
+
+        <service
+            android:name="com.snijsure.rssreader.RssService"
+            android:stopWithTask="false" />
+
+        <activity
+            android:name="com.snijsure.rssreader.DisPlayWebPageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="com.snijsure.rssreader.ListRSSItemsActivity"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="59f13ca0257c1df7e9422d6c5afaf91936a2e8ff" />
+    </application>
+
+</manifest>

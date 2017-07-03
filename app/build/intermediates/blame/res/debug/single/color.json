@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Yura\\Work on Android Samples\\rssreader-master\\rssreader-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3861ba41219ef51ea385a231082bbabfca5dd8a1\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]

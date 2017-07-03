@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\261c279b28096520eaa29833bc128af0fbc5c70e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_28cfac0a47dabd033f5cc4f7fb247878534c542a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\cb2d42e4b010dbb64d5c19be7fd0d6bea80b243e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_56f675a62fa02e11e26c742a4fa82d6c0bcd0114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\9a56e4423067df31b981c9142d2d3c0b0fa3ce36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_09c005a0dfcaae1ec8f9f233c20b50fd59056716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_456d8056aede02ad394d819ab84d08fac8666a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\androidSdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e540c455134b77baa17088cd90a4272670b1e8d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.2\d7e275ba05aa380ca254f72d0c0ffebaedc3adcf\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_7696cb9a2b27d953ee575a103408a0773ab6b832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-simplexml\2.0.0\45abad779f77038c7a98247d96d057b9d708e0d6\converter-simplexml-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45abad779f77038c7a98247d96d057b9d708e0d6">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\converter-simplexml-2.0.0_f36b331375850165c2ef93408ba8286325366fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.2.0_0f852bb2ce09a48eb0d0e1fac04357ba6b97e644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\libs\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4_0adb29ddbea468b7e188ae645bc1720e51a5504d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_c41fdad9c683a3d2f1c853e4ae682d62792807a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\5f137f48af7abb33696ee050b7cc64a4b1d373b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_f0357c62c7430e2a5bd89faf1115e799a3b56cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_601fb747e9791f74c72646192459f0758932ad88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_f6e6642ed4c0f01cb7be5c8477533ef8d026302f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\4063ed3c68f1c88e28a33d9e4c485f41a7f3636f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_ea89436a1c2a1a65081d0ef6660b58b77f491649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_456d8056aede02ad394d819ab84d08fac8666a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.2\d7e275ba05aa380ca254f72d0c0ffebaedc3adcf\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_7696cb9a2b27d953ee575a103408a0773ab6b832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_601fb747e9791f74c72646192459f0758932ad88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-simplexml\2.0.0\45abad779f77038c7a98247d96d057b9d708e0d6\converter-simplexml-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45abad779f77038c7a98247d96d057b9d708e0d6">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\converter-simplexml-2.0.0_f36b331375850165c2ef93408ba8286325366fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\c044c49d694e7e8ec14bb6e02f5181c7aa950b0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d5f3434e7ba7ec1db48a307c823abb9406de042">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_5ef6ef52c2203578c21f6ddbbb94e461cbca11fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\d38c362e6203ccaa6a903dbfbc79a7ffe1430161\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_3f852fe477db5eda47887cd7b0eed431d607caf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c6c36c9266a53bff725e5087f6a3090b1d0ab593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\2f1cb5c904673b935b0502d8403c3734759c1d10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_3a851693bde6b920a235522dcaa3c67fce5f6bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4_69815afef80a936bcfadb2d7396325d062609647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\29feec9418e216ee4661a4670c3ed885981d5063\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="170568df2f078ef2a6892561f11742590c3d9c8c">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_40b72e79e1d91e2d7d5244759cd791a6698d8f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_c41fdad9c683a3d2f1c853e4ae682d62792807a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\6b6f105a89bd0ddf0c273cefd755bdbee208be95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_7d885a6ec728a52fd93a2b283645bc9d9124c44c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c6c36c9266a53bff725e5087f6a3090b1d0ab593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\577f759c75a4a5708adc633880654ddb31276e98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_1bcc455d8d88560da501d95836e0cb7875aa7360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_f6e6642ed4c0f01cb7be5c8477533ef8d026302f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\4d86a12543a8517663bc71d220b29c444812d5fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_1ef21bd1302a0172d7cfc64ba874acdc2fe5e396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\9a56e4423067df31b981c9142d2d3c0b0fa3ce36\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_2198c61e71a680419b93e584e26851479bf2e661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4_69815afef80a936bcfadb2d7396325d062609647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\libs\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4_0adb29ddbea468b7e188ae645bc1720e51a5504d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.2.0_0f852bb2ce09a48eb0d0e1fac04357ba6b97e644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\3861ba41219ef51ea385a231082bbabfca5dd8a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\classes_64e41867ff6cbd10bc060a08a293baa78ef55494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\androidSdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Yura\Work on Android Samples\rssreader-master\rssreader-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e540c455134b77baa17088cd90a4272670b1e8d8.jar" />
+    </item>
+
+</items>
